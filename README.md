@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sandro-Terra
-- 👀 I’m interested in learning programmming languages
-- 🌱 I’m currently learning Ruby on Rails
+- 👀 I’m interested in learning programmming languages and data analysis.
+- 🌱 I’m currently learning Java, Python and Dart.
 - 💞️ I’m looking to collaborate on any project.
 - 📫 How to reach me - Contact me via sandroterra1@gmail.com
 
